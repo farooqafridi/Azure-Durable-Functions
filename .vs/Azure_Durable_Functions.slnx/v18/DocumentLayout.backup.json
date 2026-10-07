@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test Projects\\Backend\\Azure_Durable_Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F78AF6D1-95FC-49A3-938D-B1080670AE65}|Azure_Durable_Functions\\Azure_Durable_Functions.csproj|d:\\test projects\\backend\\azure_durable_functions\\azure_durable_functions\\hit\\approveorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78AF6D1-95FC-49A3-938D-B1080670AE65}|Azure_Durable_Functions\\Azure_Durable_Functions.csproj|solutionrelative:azure_durable_functions\\hit\\approveorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78AF6D1-95FC-49A3-938D-B1080670AE65}|Azure_Durable_Functions\\Azure_Durable_Functions.csproj|d:\\test projects\\backend\\azure_durable_functions\\azure_durable_functions\\hit\\orderactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78AF6D1-95FC-49A3-938D-B1080670AE65}|Azure_Durable_Functions\\Azure_Durable_Functions.csproj|solutionrelative:azure_durable_functions\\hit\\orderactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78AF6D1-95FC-49A3-938D-B1080670AE65}|Azure_Durable_Functions\\Azure_Durable_Functions.csproj|d:\\test projects\\backend\\azure_durable_functions\\azure_durable_functions\\hit\\orderorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78AF6D1-95FC-49A3-938D-B1080670AE65}|Azure_Durable_Functions\\Azure_Durable_Functions.csproj|solutionrelative:azure_durable_functions\\hit\\orderorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78AF6D1-95FC-49A3-938D-B1080670AE65}|Azure_Durable_Functions\\Azure_Durable_Functions.csproj|d:\\test projects\\backend\\azure_durable_functions\\azure_durable_functions\\fanout\\productorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78AF6D1-95FC-49A3-938D-B1080670AE65}|Azure_Durable_Functions\\Azure_Durable_Functions.csproj|solutionrelative:azure_durable_functions\\fanout\\productorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78AF6D1-95FC-49A3-938D-B1080670AE65}|Azure_Durable_Functions\\Azure_Durable_Functions.csproj|d:\\test projects\\backend\\azure_durable_functions\\azure_durable_functions\\hit\\startorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78AF6D1-95FC-49A3-938D-B1080670AE65}|Azure_Durable_Functions\\Azure_Durable_Functions.csproj|solutionrelative:azure_durable_functions\\hit\\startorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApproveOrder.cs",
+              "DocumentMoniker": "D:\\Test Projects\\Backend\\Azure_Durable_Functions\\Azure_Durable_Functions\\HIT\\ApproveOrder.cs",
+              "RelativeDocumentMoniker": "Azure_Durable_Functions\\HIT\\ApproveOrder.cs",
+              "ToolTip": "D:\\Test Projects\\Backend\\Azure_Durable_Functions\\Azure_Durable_Functions\\HIT\\ApproveOrder.cs",
+              "RelativeToolTip": "Azure_Durable_Functions\\HIT\\ApproveOrder.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T10:27:33.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderActivities.cs",
+              "DocumentMoniker": "D:\\Test Projects\\Backend\\Azure_Durable_Functions\\Azure_Durable_Functions\\HIT\\OrderActivities.cs",
+              "RelativeDocumentMoniker": "Azure_Durable_Functions\\HIT\\OrderActivities.cs",
+              "ToolTip": "D:\\Test Projects\\Backend\\Azure_Durable_Functions\\Azure_Durable_Functions\\HIT\\OrderActivities.cs",
+              "RelativeToolTip": "Azure_Durable_Functions\\HIT\\OrderActivities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T10:27:23.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductOrchestrator.cs",
+              "DocumentMoniker": "D:\\Test Projects\\Backend\\Azure_Durable_Functions\\Azure_Durable_Functions\\FanOut\\ProductOrchestrator.cs",
+              "RelativeDocumentMoniker": "Azure_Durable_Functions\\FanOut\\ProductOrchestrator.cs",
+              "ToolTip": "D:\\Test Projects\\Backend\\Azure_Durable_Functions\\Azure_Durable_Functions\\FanOut\\ProductOrchestrator.cs",
+              "RelativeToolTip": "Azure_Durable_Functions\\FanOut\\ProductOrchestrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T10:26:41.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderOrchestrator.cs",
+              "DocumentMoniker": "D:\\Test Projects\\Backend\\Azure_Durable_Functions\\Azure_Durable_Functions\\HIT\\OrderOrchestrator.cs",
+              "RelativeDocumentMoniker": "Azure_Durable_Functions\\HIT\\OrderOrchestrator.cs",
+              "ToolTip": "D:\\Test Projects\\Backend\\Azure_Durable_Functions\\Azure_Durable_Functions\\HIT\\OrderOrchestrator.cs",
+              "RelativeToolTip": "Azure_Durable_Functions\\HIT\\OrderOrchestrator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T10:26:07.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartOrder.cs",
+              "DocumentMoniker": "D:\\Test Projects\\Backend\\Azure_Durable_Functions\\Azure_Durable_Functions\\HIT\\StartOrder.cs",
+              "RelativeDocumentMoniker": "Azure_Durable_Functions\\HIT\\StartOrder.cs",
+              "ToolTip": "D:\\Test Projects\\Backend\\Azure_Durable_Functions\\Azure_Durable_Functions\\HIT\\StartOrder.cs",
+              "RelativeToolTip": "Azure_Durable_Functions\\HIT\\StartOrder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T10:26:00.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

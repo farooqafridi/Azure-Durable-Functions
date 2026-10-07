@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Azure_Durable_Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7136",
+      "launchBrowser": false
+    }
+  }
+}
